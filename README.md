@@ -72,6 +72,7 @@ My current learning direction is the intersection of **DevOps and AI engineering
 
 - **AZ-104** — Microsoft Certified: Azure Administrator Associate
 - **AZ-400** — Microsoft Certified: DevOps Engineer Expert
+- **AZ-204** — Microsoft Certified: Azure Developer Associate
 - **GitHub Actions** — GitHub Actions certification
 - **GitHub Advanced Security** — GitHub Advanced Security certification
 
