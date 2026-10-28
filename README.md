@@ -2,18 +2,18 @@
 
 <!-- Replace lokesh-adapaka in the image URLs below with your GitHub username. -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:0B3D91,100:00E5FF&height=220&section=header&text=CLOUD%20%2F%2F%20AUTOMATION&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=DevOps%20Engineering%20%E2%80%A2%20Platform%20Engineering%20%E2%80%A2%20Cloud%20Native&descSize=14&descAlignY=55" width="100%" alt="Dark futuristic cloud engineering banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:0B3D91,100:00E5FF&height=220&section=header&text=CLOUD%20%2F%2F%20AUTOMATION&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=DevOps%20Engineering%20%E2%80%A2%20Platform%20Engineering%20%E2%80%A2%20Cloud%20Native%20%E2%80%A2%20AI%20Engineering%20%E2%80%A2%20Agentic%20Workflows&descSize=14&descAlignY=55" width="100%" alt="Dark futuristic cloud engineering banner"/>
 
 # `> Hello, world. I'm a DevOps Engineer_`
 
-### Building reliable cloud platforms. Automating everything repeatable. Exploring what's next with AI.
+### Engineering cloud platforms, intelligent automation, and AI-powered systems.
 
 [![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=Cloud+Infrastructure+as+Code;Kubernetes+%7C+AKS+%7C+GitOps;CI%2FCD+Pipelines+%7C+DevSecOps;Exploring+AI-powered+Engineering+Automation" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=Cloud+Infrastructure+as+Code;Kubernetes+%7C+AKS+%7C+GitOps;CI%2FCD+Pipelines+%7C+DevSecOps;Agentic+Workflows+%7C+RAG+%7C+LLM+Applications" alt="Typing animation"/>
 
 </div>
 
@@ -29,13 +29,18 @@ focus:
   - Infrastructure as Code with Terraform
   - CI/CD automation with GitHub Actions
   - GitOps, reliability, and secure delivery
-currently:  Exploring AI-powered engineering and automation
-mindset:    Automate the repeatable. Observe the important. Improve continuously.
+  - AI engineering fundamentals and LLM-powered applications
+  - Retrieval-Augmented Generation (RAG) and knowledge retrieval
+  - Agentic workflows, tool calling, and workflow orchestration
+currently:
+  - Exploring AI agents and RAG-based assistants
+  - Connecting AI capabilities with DevOps and SRE workflows
+mindset:    Automate the repeatable. Ground AI in useful context. Improve continuously.
 ```
 
 I work at the intersection of **cloud infrastructure, automation, and reliable software delivery**. I enjoy turning manual processes into repeatable workflows, building infrastructure that can be version-controlled, and helping teams ship changes with confidence.
 
-My current learning direction is the intersection of **DevOps and AI**—using intelligent automation to improve developer experience, operations, and platform reliability.
+My current learning direction is the intersection of **DevOps and AI engineering**—building practical LLM-powered tools, exploring **Retrieval-Augmented Generation (RAG)**, and designing **agentic workflows** that can use tools and follow multi-step processes. I’m especially interested in applying these ideas to developer experience, platform engineering, and site reliability engineering (SRE).
 
 ## `02 / Tech Stack`
 
@@ -49,6 +54,8 @@ My current learning direction is the intersection of **DevOps and AI**—using i
 | **CI/CD & GitOps** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Argo CD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white) |
 | **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
 | **Observability** | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) |
+| **AI Engineering** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LLMs](https://img.shields.io/badge/LLM_Applications-412991?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-00A67D?style=flat-square) |
+| **Agents & Workflows** | ![AI Agents](https://img.shields.io/badge/AI_Agents-6C5CE7?style=flat-square) ![Tool Calling](https://img.shields.io/badge/Tool_Calling-0B7285?style=flat-square) ![Workflow Orchestration](https://img.shields.io/badge/Workflow_Orchestration-495057?style=flat-square) |
 | **Exploring** | ![AI](https://img.shields.io/badge/AI_for_Engineering-00B8D9?style=flat-square&logo=openai&logoColor=white) ![DevSecOps](https://img.shields.io/badge/DevSecOps-2EA44F?style=flat-square&logo=githubsecurity&logoColor=white) |
 
 </div>
@@ -78,6 +85,9 @@ My current learning direction is the intersection of **DevOps and AI**—using i
 - **Kubernetes operations** — containerized workloads, deployment health, configuration, and platform reliability.
 - **GitOps workflows** — declarative delivery and controlled application rollouts.
 - **AI-assisted operations** — exploring ways to make troubleshooting, documentation, and routine engineering tasks smarter.
+- **RAG applications** — connecting language models to relevant documents, runbooks, and engineering knowledge so responses can use retrieved context.
+- **Agentic workflows** — designing multi-step AI workflows that can select tools, call APIs, gather information, and support human-reviewed engineering tasks.
+- **LLM application patterns** — learning prompt design, structured outputs, tool calling, evaluation, and guardrails for more dependable AI applications.
 
 ## `05 / Featured Engineering`
 
@@ -89,8 +99,11 @@ My current learning direction is the intersection of **DevOps and AI**—using i
 | **AKS GitOps Platform** | Kubernetes, Argo CD, Helm, and deployment automation |
 | **DevSecOps CI/CD Pipeline** | GitHub Actions, security scanning, quality gates, and artifact promotion |
 | **AI-Powered SRE Assistant** | Incident summarization, runbook retrieval, and operational insights |
+| **RAG-Based Engineering Knowledge Assistant** | Document ingestion, chunking, embeddings, vector search, citations, and grounded answers |
+| **Agentic DevOps Workflow** | A controlled AI workflow that gathers deployment context, checks logs, invokes approved tools, and drafts a human-reviewed incident report |
+| **LLM App Evaluation Lab** | Test datasets, retrieval quality checks, response evaluation, and safety guardrails |
 
-*These are suggested portfolio projects—replace them with links to repositories you have actually built.*
+*These are suggested portfolio projects—replace them with links to repositories you have actually built. The AI projects are portfolio directions and should be described as learning/exploration until implemented.*
 
 ## `06 / GitHub Activity`
 
@@ -112,7 +125,10 @@ My current learning direction is the intersection of **DevOps and AI**—using i
 03  Build security into the workflow.
 04  Design for observability and recovery.
 05  Document decisions—not just commands.
-06  Keep learning. Keep shipping. Keep improving.
+06  Ground AI answers in relevant evidence.
+07  Give agents clear tools, limits, and human approval points.
+08  Evaluate AI systems—not just their demos.
+09  Keep learning. Keep shipping. Keep improving.
 ```
 
 ## `08 / Connect`
